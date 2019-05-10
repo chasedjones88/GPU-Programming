@@ -1,0 +1,7 @@
+﻿  Building NVCC (Device) object CMakeFiles/BasicMatrixMultiplication_Template.dir/BasicMatrixMultiplication/Debug/BasicMatrixMultiplication_Template_generated_template.cu.obj
+  template.cu
+C:/Users/Chase/Downloads/CSC 196u/A1/A1/source/BasicMatrixMultiplication/template.cu(99): warning : variable "width" was declared but never referenced
+  
+  template.cu
+  BasicMatrixMultiplication_Template.vcxproj -> C:\Users\Chase\Downloads\CSC 196u\A1\A1\build\Debug\BasicMatrixMultiplication_Template.exe
+  BasicMatrixMultiplication_Template.vcxproj -> C:/Users/Chase/Downloads/CSC 196u/A1/A1/build/Debug/BasicMatrixMultiplication_Template.pdb (Full PDB)

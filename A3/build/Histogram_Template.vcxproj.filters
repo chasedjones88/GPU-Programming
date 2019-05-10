@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Chase\Downloads\CSC\CSC 196u\A3\source\Histogram\template.cu">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Chase\Downloads\CSC\CSC 196u\A3\source\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="C:\Users\Chase\Downloads\CSC\CSC 196u\A3\build\CMakeFiles\Histogram_Template.dir\Histogram\$(Configuration)\Histogram_Template_generated_template.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Object Files">
+      <UniqueIdentifier>{B5793F67-01BA-3414-9A5F-B079D6008DE4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{609D3A93-0468-3344-BD3D-8F3FE7A4B86B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

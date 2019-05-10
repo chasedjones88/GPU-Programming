@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Chase\Downloads\CSC 196u\A0\A0\source\DeviceQuery\template.cu">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Chase\Downloads\CSC 196u\A0\A0\source\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="C:\Users\Chase\Downloads\CSC 196u\A0\A0\build\CMakeFiles\DeviceQuery_Template.dir\DeviceQuery\$(Configuration)\DeviceQuery_Template_generated_template.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Object Files">
+      <UniqueIdentifier>{EAD267A3-AF36-3E03-8173-39D532DD0560}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{033C8389-96A1-3CF6-898C-22F874483C91}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

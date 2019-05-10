@@ -1,0 +1,13 @@
+﻿  Building NVCC (Device) object CMakeFiles/Histogram_Template.dir/Histogram/Debug/Histogram_Template_generated_template.cu.obj
+  template.cu
+C:/Users/Chase/Downloads/CSC/CSC 196u/A3/source/Histogram/template.cu(103): error : identifier "dimGrid" is undefined
+  
+C:/Users/Chase/Downloads/CSC/CSC 196u/A3/source/Histogram/template.cu(103): error : identifier "dimBlock" is undefined
+  
+  2 errors detected in the compilation of "C:/Users/Chase/AppData/Local/Temp/tmpxft_0000b6e8_00000000-10_template.cpp1.ii".
+  template.cu
+  CMake Error at Histogram_Template_generated_template.cu.obj.Debug.cmake:279 (message):
+    Error generating file C:/Users/Chase/Downloads/CSC/CSC
+    196u/A3/build/CMakeFiles/Histogram_Template.dir/Histogram/Debug/Histogram_Template_generated_template.cu.obj
+  
+  

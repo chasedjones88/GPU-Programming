@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Chase\Downloads\CSC 196u\A1\A1\source\TiledMatrixMultiplication\template.cu">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Chase\Downloads\CSC 196u\A1\A1\source\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="C:\Users\Chase\Downloads\CSC 196u\A1\A1\build\CMakeFiles\TiledMatrixMultiplication_Template.dir\TiledMatrixMultiplication\$(Configuration)\TiledMatrixMultiplication_Template_generated_template.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Object Files">
+      <UniqueIdentifier>{0ECAD3D2-567E-37D8-B4C7-397F6A8E0808}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{75CBF207-80C2-3EF8-92F6-2B21CBE8657C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

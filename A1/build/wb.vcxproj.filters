@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Chase\Downloads\CSC 196u\A1\A1\source\libwb\wbArg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chase\Downloads\CSC 196u\A1\A1\source\libwb\wbCUDA.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chase\Downloads\CSC 196u\A1\A1\source\libwb\wbDataset.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chase\Downloads\CSC 196u\A1\A1\source\libwb\wbDirectory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chase\Downloads\CSC 196u\A1\A1\source\libwb\wbExit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chase\Downloads\CSC 196u\A1\A1\source\libwb\wbExport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chase\Downloads\CSC 196u\A1\A1\source\libwb\wbFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chase\Downloads\CSC 196u\A1\A1\source\libwb\wbImage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chase\Downloads\CSC 196u\A1\A1\source\libwb\wbImport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chase\Downloads\CSC 196u\A1\A1\source\libwb\wbInit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chase\Downloads\CSC 196u\A1\A1\source\libwb\wbLogger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chase\Downloads\CSC 196u\A1\A1\source\libwb\wbMPI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chase\Downloads\CSC 196u\A1\A1\source\libwb\wbPPM.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chase\Downloads\CSC 196u\A1\A1\source\libwb\wbPath.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chase\Downloads\CSC 196u\A1\A1\source\libwb\wbSolution.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chase\Downloads\CSC 196u\A1\A1\source\libwb\wbSparse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chase\Downloads\CSC 196u\A1\A1\source\libwb\wbTimer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Chase\Downloads\CSC 196u\A1\A1\source\libwb\vendor\json11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Chase\Downloads\CSC 196u\A1\A1\source\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{75CBF207-80C2-3EF8-92F6-2B21CBE8657C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

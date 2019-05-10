@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Chase\Downloads\CSC\CSC 196u\A2\source\Convolution\template.cu">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Chase\Downloads\CSC\CSC 196u\A2\source\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="C:\Users\Chase\Downloads\CSC\CSC 196u\A2\build\CMakeFiles\Convolution_Template.dir\Convolution\$(Configuration)\Convolution_Template_generated_template.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Object Files">
+      <UniqueIdentifier>{B6C3828C-E8FA-3290-AC8A-6C15DCF9CEDB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C1092440-1A32-3B28-803D-B98EF0B07A6B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

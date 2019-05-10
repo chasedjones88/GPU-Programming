@@ -1,0 +1,8 @@
+﻿  Building NVCC (Device) object CMakeFiles/DeviceQuery_Template.dir/DeviceQuery/Debug/DeviceQuery_Template_generated_template.cu.obj
+  template.cu
+  template.cu
+  Building Custom Rule C:/Users/Chase/Downloads/CSC 196u/A0/A0/source/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/Chase/Downloads/CSC 196u/A0/A0/build/CMakeFiles/generate.stamp is up-to-date.
+     Creating library C:/Users/Chase/Downloads/CSC 196u/A0/A0/build/Debug/DeviceQuery_Template.lib and object C:/Users/Chase/Downloads/CSC 196u/A0/A0/build/Debug/DeviceQuery_Template.exp
+  DeviceQuery_Template.vcxproj -> C:\Users\Chase\Downloads\CSC 196u\A0\A0\build\Debug\DeviceQuery_Template.exe
+  DeviceQuery_Template.vcxproj -> C:/Users/Chase/Downloads/CSC 196u/A0/A0/build/Debug/DeviceQuery_Template.pdb (Full PDB)
